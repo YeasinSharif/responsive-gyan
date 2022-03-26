@@ -5,7 +5,7 @@ $(function () {
         prevArrow: '<i class="slider-icons fas fa-arrow-left"></i>',
         nextArrow: '<i class="slider-icons fas fa-arrow-right"></i>',
         dots: false,
-        autoplay: false,
+        autoplay: true,
         speed: 1000
     })
 
@@ -301,6 +301,9 @@ $(function () {
     })
 
     /* counter up js ends */
+
+
+    
 
 
 
